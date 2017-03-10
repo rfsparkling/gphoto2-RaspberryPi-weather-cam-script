@@ -16,4 +16,5 @@ sudo install sunwait /usr/bin/sunwait```
 Then running the script first it calculates sunset and sunrise and decide to run the camera in day mode (Auto) or in long exposure (Tv) mode. 
 Mine tested with Canon PowerShot IS5, it has Auto and Tv modes, it has to be programmed in gphoto2 --config menu.
 
+# Example video:
 [![demo video](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/snapshot.png)](https://youtu.be/rtHzb5t4Lco "Weather cam example")
