@@ -17,4 +17,4 @@ Then running the script first it calculates sunset and sunrise and decide to run
 Mine tested with Canon PowerShot IS5, it has Auto and Tv modes, it has to be programmed in gphoto2 --config menu.
 
 [demo video:](https://youtu.be/rtHzb5t4Lco)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtHzb5t4Lco" frameborder="0" allowfullscreen></iframe>
+[![demo video](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/snapshot.png)](https://youtu.be/rtHzb5t4Lco "Weather cam example")
