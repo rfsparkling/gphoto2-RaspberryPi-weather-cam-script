@@ -9,8 +9,7 @@
 # szamitogephez, kozonseges fenykepezogep vezerlesere (Canon S5 IS
 # geppel tesztelve)
 #
-# Before run install: sudo apt-get install gphoto2 sudo apt-get install
-# usbmount
+# Before run install: sudo apt-get install gphoto2 usbmount
 
 SUNRISE=`sunwait -p 47N 19E 2>&1 | grep 'Sun rises' | cut -d' ' -f 22`
 SUNRISE=`echo $SUNRISE | cut -b1-2`:`echo $SUNRISE | cut -b3-4`:00
