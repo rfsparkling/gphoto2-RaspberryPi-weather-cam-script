@@ -26,3 +26,8 @@ Mine tested with Canon PowerShot IS5, it has Auto and Tv modes, it has to be pro
 
 # Thunderstorm video screenshots:
 ![1](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/1.jpg)
+![2](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/2.jpg)
+![3](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/3.jpg)
+![4](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/4.jpg)
+![5](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/5.jpg)
+![7](https://github.com/rfsparkling/gphoto2-RaspberryPi-weather-cam-script/blob/master/7.jpg)
